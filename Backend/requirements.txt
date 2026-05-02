@@ -1,5 +1,0 @@
-fastapi
-uvicorn
-paddlepaddle
-paddleocr
-python-multipart
